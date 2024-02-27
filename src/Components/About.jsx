@@ -18,13 +18,13 @@ import React from "react";
  */
 import image from "../images/motion-background.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "moving particles.";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Concurrent Rollins College student, graduating in 2024 with a Bachelor of Arts in Computer Science and in 2025 with a Master of Business Administration from the Crummer Graduate School of Business. Strong analytical, software, and communication skills, with a focus on utilizing data and insights to address business questions and drive solutions. Passionate about leveraging technology to drive innovation and solve complex problems.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation thorugh the use of data, software, and business fundamentals. This comming summer I will be interning with Walt Disney World as a Pricing Analyst Intern, where I will be working with a team to analyze data and develop pricing strategies to drive revenue and guest satisfaction. I am excited to bring my skills and passion to the team and learn from the best in the industry. I am always looking for new opportunities to learn and grow, and I am excited to see where my career takes me in the future";
 
 const About = () => {
   return (
